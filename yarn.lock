@@ -238,6 +238,11 @@ picomatch@^2.0.4, picomatch@^2.2.1:
   resolved "https://registry.yarnpkg.com/picomatch/-/picomatch-2.2.2.tgz#21f333e9b6b8eaff02468f5146ea406d345f4dad"
   integrity sha512-q0M/9eZHzmr0AulXyPwNfZjtwZ/RBZlbN3K3CErVrk50T2ASYI7Bye0EvekFY3IP1Nt2DHu0re+V2ZHIpMkuWg==
 
+rambda@^7.0.0:
+  version "7.0.0"
+  resolved "https://registry.npmjs.org/rambda/-/rambda-7.0.0.tgz#f5305a9762a87355bf316a16bd67fd359fcbb19e"
+  integrity sha512-siaapZDDsKf+aRjhTbzBeFOfiuCJ0AGSauJWoB6oyc1J+2riFBkRPHjScBNWVS9X0u6K2hlQJ7YEdZSBvBchVQ==
+
 readdirp@~3.6.0:
   version "3.6.0"
   resolved "https://registry.yarnpkg.com/readdirp/-/readdirp-3.6.0.tgz#74a370bd857116e245b29cc97340cd431a02a6c7"

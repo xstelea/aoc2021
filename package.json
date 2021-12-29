@@ -10,5 +10,8 @@
     "@types/node": "^16.9.6",
     "ts-node-dev": "^1.1.8",
     "typescript": "^4.4.3"
+  },
+  "dependencies": {
+    "rambda": "^7.0.0"
   }
 }
